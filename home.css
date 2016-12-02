@@ -1,0 +1,47 @@
+body
+{
+  background-color: #0F5E68;
+}
+
+h1
+{
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+h1
+{
+  border: 3px yellow;
+  border-style: solid;
+  border-radius: 25px;
+  border-left: 15px;
+  border-right: 15px;
+}
+
+h1
+{
+  text-align: center;
+}
+
+h4
+{
+ font-family: "Comic Sans MS", cursive, sans-serif; 
+}
+
+h4
+{
+  text-align: center;
+}
+
+p
+{
+  width: 300px;
+  background-color: yellow;
+  border: 10px solid blue;
+  padding: 10px;
+  margin: auto;
+}
+
+p
+{
+  text-align: center;
+}
